@@ -1,0 +1,12 @@
+.heading
+{
+  width:100%;  
+  box-shadow: 7px 8px 9px cornflowerblue;
+  margin-top: 0;
+  font-size: 18px;
+}
+
+
+canvas{
+border:4px dashed crimson;
+}
